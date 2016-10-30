@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tejus/Documents/image processing/lecture_to_slides/src/utils.cpp
+opencv/cv.h
+/home/tejus/Documents/image processing/lecture_to_slides/src/opencv/cv.h
+opencv2/highgui/highgui.hpp
+-
+bits/stdc++.h
+-
+

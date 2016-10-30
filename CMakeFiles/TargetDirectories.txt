@@ -1,0 +1,1 @@
+/home/tejus/Documents/image processing/lecture_to_slides/CMakeFiles/lecture_to_slides.dir
